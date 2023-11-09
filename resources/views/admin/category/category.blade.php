@@ -49,10 +49,7 @@
                   <label for="cat_name">Category Name</label>
                   <input type="text" class="form-control" name="cat_name" placeholder="Enter category name">
                 </div>
-                <div class="mb-3">
-                  <label for="user_id">User ID</label>
-                  <input type="number" class="form-control" name="user_id" placeholder="Enter User ID" min="1">
-                </div>
+                
                 <button type="submit" class="btn btn-primary" name="submit">Submit</button>
               </form>
             </div>
